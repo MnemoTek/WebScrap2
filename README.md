@@ -17,3 +17,4 @@ Tech Stack
 - BeautifulSoup
 - Requests
 - Pandas
+![WebScrap2 Interface](interface_app.png)
